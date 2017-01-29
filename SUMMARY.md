@@ -10,8 +10,6 @@
 
     * [2. Dex分包加载](chapter1/multidex_1.md)
 
-    * 大数据库 
-
   * [3. Dex分包加载](chapter1/multidex_1.md)
 
   * [dsakj](/chapter1/multidex_1.md)

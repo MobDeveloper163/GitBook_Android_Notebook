@@ -5,9 +5,13 @@
 
   * [1. Dex分包加载](chapter1/multidex_1.md)
   * [2. Dex分包加载](chapter1/multidex_1.md)
+
     * [1. Dex分包加载](chapter1/multidex_1.md)
 
     * [2. Dex分包加载](chapter1/multidex_1.md)
+
+    * 大数据库 * 大口径的
+
   * [3. Dex分包加载](chapter1/multidex_1.md)
 
   * [dsakj](/chapter1/multidex_1.md)

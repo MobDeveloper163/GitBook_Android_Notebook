@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [第一章 热修复技术](chapter1/chapter1.md)
+* [第一章 核心控件]
 
   * [1. Dex分包加载](chapter1/multidex_1.md)
   * [2. Dex分包加载](chapter1/multidex_1.md)

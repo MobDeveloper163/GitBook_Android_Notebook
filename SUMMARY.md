@@ -8,6 +8,7 @@
   * [3. ListView](chapter1/ListView.md)
   * [4. GridView](chapter1/GridView.md)
   * [5. TableView](chapter1/TableView.md)
+  * [6. CustomView](chapter1/CustomView.md)
 
 
 * [第二章](chapter2/chapter2.md)

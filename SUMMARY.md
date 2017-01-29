@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [第一章 Java语言](chapter1/Java.md)
-* [第二章 核心控件](chapter1/chapter1.md)
+* [第二章 核心控件](chapter2/chapter1.md)
   * [1. RecyclerView](chapter1/RecyclerView.md)
   * [2. CardView](chapter1/CardView.md)
   * [3. ListView](chapter1/ListView.md)
@@ -11,7 +11,7 @@
   * [6. CustomView](chapter1/CustomView.md)
 
 
-* [第二章](chapter2/chapter2.md)
+* [第章](chapter2/chapter2.md)
 
 * [第三章](chapter3/chapter3.md)
 

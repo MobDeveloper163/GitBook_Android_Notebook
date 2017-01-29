@@ -6,15 +6,6 @@
   * [1. RecyclerView](chapter1/RecyclerView.md)
   * [2. CardView](chapter1/CardView.md)
 
-    * [1. Dex分包加载](chapter1/multidex_1.md)
-
-    * [2. Dex分包加载](chapter1/multidex_1.md)
-
-  * [3. Dex分包加载](chapter1/multidex_1.md)
-
-  * [dsakj](/chapter1/multidex_1.md)
-
-  * [jdskjdks](/chapter1/multidex_2.md)
 
 * [第二章](chapter2/chapter2.md)
 

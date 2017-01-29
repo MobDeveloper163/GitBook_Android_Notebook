@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [第一章 Java语言](chapter1/Java.md)
+* [第一章 Java语言](chapter1/chapter1.md)
 * [第二章 核心控件](chapter2/chapter2.md)
   * [1. RecyclerView](chapter2/RecyclerView.md)
   * [2. CardView](chapter2/CardView.md)

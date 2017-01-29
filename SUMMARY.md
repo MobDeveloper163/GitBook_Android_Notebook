@@ -6,6 +6,7 @@
   * [1. RecyclerView](chapter1/RecyclerView.md)
   * [2. CardView](chapter1/CardView.md)
   * [3. ListView](chapter1/ListView.md)
+  * [4. GridView](chapter1/GridView.md)
 
 
 * [第二章](chapter2/chapter2.md)
